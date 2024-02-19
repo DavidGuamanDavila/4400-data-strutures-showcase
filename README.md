@@ -1,6 +1,6 @@
 # ECE4400-data-strutures-showcase
 ## Assignments
-In this course:
+In ECE 4400 Data Structures course I learned the following:
 
 - **Fundamental Data Structures**: Coverage of essential linear and non-linear data structures.
 - **Recursive Structures**: Exploration of recursion in data organization.
