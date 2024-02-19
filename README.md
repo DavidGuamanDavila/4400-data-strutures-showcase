@@ -1,1 +1,1 @@
-# 4400-data-strutures-showcase
+# ECE4400-data-strutures-showcase
